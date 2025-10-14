@@ -2,3 +2,14 @@ title: 课程项目站点
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
+
+# Giscus Comments
+giscus:
+  repo: Jiaju-Chen/SoftwareEngineering
+  repo_id: R_kgDOMf_I3A
+  category: Announcements
+  category_id: DIC_kwDOMf_I3M4Chd9_
+  mapping: pathname
+  reactions_enabled: 1
+  emit_metadata: 0
+  theme: light
