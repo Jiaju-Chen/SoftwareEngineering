@@ -6,10 +6,13 @@ plugins:
 # Giscus Comments
 giscus:
   repo: Jiaju-Chen/SoftwareEngineering
-  repo_id: R_kgDOMf_I3A
-  category: Announcements
-  category_id: DIC_kwDOMf_I3M4Chd9_
+  repo_id: R_kgDOP_2dlA
+  category: HW1
+  category_id: DIC_kwDOP_2dlM4CwnXr
   mapping: pathname
-  reactions_enabled: 1
-  emit_metadata: 0
-  theme: light
+  strict: "0"
+  reactions_enabled: "1"
+  emit_metadata: "0"
+  input_position: "bottom"
+  theme: preferred_color_scheme
+  lang: zh-CN
