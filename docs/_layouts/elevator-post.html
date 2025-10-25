@@ -1,0 +1,50 @@
+---
+layout: default
+---
+
+<link rel="stylesheet" href="{{ '/assets/elevator-styles.css' | relative_url }}">
+
+<article class="elevator-post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+    <p class="post-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">
+        {{ page.date | date: "%Y年%m月%d日" }}
+      </time>
+      {% if page.tags %}
+        • 
+        {% for tag in page.tags %}
+          <span class="tag">{{ tag }}</span>
+        {% endfor %}
+      {% endif %}
+    </p>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  <!-- 电梯调度系统专用评论区 -->
+  <div class="comments-section">
+    <h3>💬 评论区</h3>
+    <p class="comments-note">欢迎对电梯调度算法和软件工程实践进行讨论！</p>
+  </div>
+
+</article>
+
+<script src="https://giscus.app/client.js"
+        data-repo="{{ site.giscus.repo }}"
+        data-repo-id="{{ site.giscus.repo_id }}"
+        data-category="HW2"
+        data-category-id="DIC_kwDOP_2dlM4CwnXs"
+        data-mapping="{{ site.giscus.mapping }}"
+        data-strict="{{ site.giscus.strict }}"
+        data-reactions-enabled="{{ site.giscus.reactions_enabled }}"
+        data-emit-metadata="{{ site.giscus.emit_metadata }}"
+        data-input-position="{{ site.giscus.input_position }}"
+        data-theme="{{ site.giscus.theme }}"
+        data-lang="{{ site.giscus.lang }}"
+        crossorigin="anonymous"
+        async>
+</script>

@@ -1,0 +1,298 @@
+/* 电梯调度系统专用样式 */
+
+/* 页面整体布局 */
+.elevator-post {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  line-height: 1.6;
+  color: #24292e;
+}
+
+/* 标题样式 */
+.elevator-post h1 {
+  font-size: 2.8rem;
+  font-weight: 800;
+  margin-bottom: 1rem;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-align: center;
+  padding-bottom: 1rem;
+  border-bottom: 3px solid #e1e4e8;
+}
+
+/* 二级标题 */
+.elevator-post h2 {
+  font-size: 1.8rem;
+  font-weight: 600;
+  color: #0366d6;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  padding-left: 1rem;
+  border-left: 4px solid #0366d6;
+  background: linear-gradient(90deg, rgba(3, 102, 214, 0.1) 0%, transparent 100%);
+  padding: 0.5rem 1rem;
+  border-radius: 0 8px 8px 0;
+}
+
+/* 三级标题 */
+.elevator-post h3 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: #28a745;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  padding-left: 0.5rem;
+  border-left: 3px solid #28a745;
+}
+
+/* 段落样式 */
+.elevator-post p {
+  margin-bottom: 1rem;
+  text-align: justify;
+}
+
+/* 列表样式 */
+.elevator-post ul, .elevator-post ol {
+  margin-bottom: 1rem;
+  padding-left: 2rem;
+}
+
+.elevator-post li {
+  margin-bottom: 0.5rem;
+}
+
+/* 表格样式 */
+.elevator-post table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.elevator-post th {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  font-weight: 600;
+  padding: 1rem;
+  text-align: left;
+}
+
+.elevator-post td {
+  padding: 0.8rem 1rem;
+  border-bottom: 1px solid #e1e4e8;
+}
+
+.elevator-post tr:nth-child(even) {
+  background-color: #f8f9fa;
+}
+
+.elevator-post tr:hover {
+  background-color: #e3f2fd;
+  transition: background-color 0.3s ease;
+}
+
+/* 代码样式 */
+.elevator-post code {
+  background-color: #f6f8fa;
+  color: #e83e8c;
+  padding: 0.2rem 0.4rem;
+  border-radius: 4px;
+  font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+  font-size: 0.9em;
+}
+
+.elevator-post pre {
+  background-color: #f6f8fa;
+  padding: 1.5rem;
+  border-radius: 8px;
+  overflow-x: auto;
+  border: 1px solid #e1e4e8;
+  margin: 1.5rem 0;
+}
+
+.elevator-post pre code {
+  background: none;
+  color: #24292e;
+  padding: 0;
+}
+
+/* 引用样式 */
+.elevator-post blockquote {
+  border-left: 4px solid #0366d6;
+  padding-left: 1.5rem;
+  margin: 1.5rem 0;
+  color: #6a737d;
+  font-style: italic;
+  background-color: #f8f9fa;
+  padding: 1rem 1.5rem;
+  border-radius: 0 8px 8px 0;
+}
+
+/* 强调文本 */
+.elevator-post strong {
+  color: #0366d6;
+  font-weight: 600;
+}
+
+/* 链接样式 */
+.elevator-post a {
+  color: #0366d6;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-bottom 0.3s ease;
+}
+
+.elevator-post a:hover {
+  border-bottom: 1px solid #0366d6;
+}
+
+/* 图片样式 */
+.elevator-post img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  margin: 1.5rem 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* 分隔线 */
+.elevator-post hr {
+  border: none;
+  height: 2px;
+  background: linear-gradient(90deg, transparent 0%, #e1e4e8 50%, transparent 100%);
+  margin: 3rem 0;
+}
+
+/* 标签样式 */
+.tag {
+  display: inline-block;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 0.3rem 0.8rem;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* 评论区样式 */
+.comments-section {
+  margin-top: 4rem;
+  padding-top: 2rem;
+  border-top: 2px solid #e1e4e8;
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  padding: 2rem;
+  border-radius: 12px;
+}
+
+.comments-section h3 {
+  color: #24292e;
+  margin-bottom: 0.5rem;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.comments-note {
+  color: #6a737d;
+  font-style: italic;
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+/* 特殊内容块 */
+.algorithm-highlight {
+  background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
+  border: 1px solid #2196f3;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.performance-metrics {
+  background: linear-gradient(135deg, #e8f5e8 0%, #c8e6c9 100%);
+  border: 1px solid #4caf50;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .elevator-post {
+    padding: 1rem;
+  }
+  
+  .elevator-post h1 {
+    font-size: 2.2rem;
+  }
+  
+  .elevator-post h2 {
+    font-size: 1.5rem;
+  }
+  
+  .elevator-post h3 {
+    font-size: 1.2rem;
+  }
+  
+  .elevator-post table {
+    font-size: 0.9rem;
+  }
+  
+  .elevator-post th,
+  .elevator-post td {
+    padding: 0.6rem 0.8rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .elevator-post h1 {
+    font-size: 1.8rem;
+  }
+  
+  .elevator-post h2 {
+    font-size: 1.3rem;
+  }
+  
+  .elevator-post h3 {
+    font-size: 1.1rem;
+  }
+  
+  .elevator-post table {
+    font-size: 0.8rem;
+  }
+  
+  .elevator-post th,
+  .elevator-post td {
+    padding: 0.4rem 0.6rem;
+  }
+}
+
+/* 打印样式 */
+@media print {
+  .elevator-post {
+    max-width: none;
+    padding: 0;
+  }
+  
+  .comments-section {
+    display: none;
+  }
+  
+  .elevator-post h1,
+  .elevator-post h2,
+  .elevator-post h3 {
+    color: #000 !important;
+    background: none !important;
+    -webkit-text-fill-color: initial !important;
+  }
+}
