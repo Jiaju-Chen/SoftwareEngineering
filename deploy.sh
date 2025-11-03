@@ -11,7 +11,7 @@ if [ -n "$(git status --porcelain)" ]; then
     git add .
     
     echo "💾 提交更改..."
-    git commit -m "Update elevator scheduling system blog post - $(date '+%Y-%m-%d %H:%M:%S')"
+    git commit -m "Update project blog posts - $(date '+%Y-%m-%d %H:%M:%S')"
 else
     echo "✅ 没有检测到新的更改"
 fi
@@ -35,6 +35,7 @@ if [ $? -eq 0 ]; then
     echo "📚 项目包含："
     echo "   - 现代软件工程阅读与课程反馈"
     echo "   - 电梯调度系统：从算法到实现的软件工程实践"
+    echo "   - 团队博客1 - 团队项目核心信息"
     echo "   - 独立的评论区系统"
     echo "   - 响应式设计"
 else
