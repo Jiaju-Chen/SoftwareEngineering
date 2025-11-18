@@ -38,6 +38,7 @@ tags: [Daily Scrum, NewsMind, Sprint]
 - **我今天要完成的工作**：开始处理数据清洗脚本，保证 AI 模块输入统一。
 
 ## 📋 任务追踪
+
 | 任务ID | 描述 | 最初计划 (h) | 已耗时 (h) | 剩余 (h) |
 | :-- | :-- | --: | --: | --: |
 | BE-03 | 用户注册/登录 API | 4 | 4 | 0 |
@@ -46,6 +47,7 @@ tags: [Daily Scrum, NewsMind, Sprint]
 | PM-08 | RAG 方案调研 | 4 | 4 | 0 |
 
 ## 📉 燃尽图与数据
+
 | 指标 | 小时 |
 | :-- | --: |
 | 今日完成 (Completed Hour) | 18 |
