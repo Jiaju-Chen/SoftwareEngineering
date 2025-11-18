@@ -29,7 +29,7 @@ tags: [Daily Scrum, NewsMind, Sprint]
 - **Commit** `7b3f42e` feat: api integration for feed (#FE-09)
 - **我自从上次 Scrum 后的工作进展**：对接登录与推荐 API，完成 Loading/Empty/Error 三态处理。
 - **我碰到的困难**：Axios 拦截器重复注入 header 导致 401，现已统一封装。
-- **我今天要完成的工作**：打通端到端流程并补充偏好设置页。
+- **我今天要完成的工作**：完成接口对接的剩余工作，并开始准备偏好设置页。
 
 ### 宋尚文
 - **Commit** `af781c0` feat: tag-based recommender (#AI-06)
