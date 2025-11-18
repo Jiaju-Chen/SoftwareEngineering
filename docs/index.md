@@ -17,6 +17,19 @@
 - **[团队博客2 - 项目Alpha阶段的计划和估计](/SoftwareEngineering/groupblog2.html)**  
   *工作结构分解、Sprint计划、任务分配与燃尽图*
 
+### 📅 Daily Scrum 日志
+
+- [11 月 5 日 · Day 1](/SoftwareEngineering/daily-scrum-11-05.html)
+- [11 月 6 日 · Day 2](/SoftwareEngineering/daily-scrum-11-06.html)
+- [11 月 7 日 · Day 3](/SoftwareEngineering/daily-scrum-11-07.html)
+- [11 月 10 日 · Day 4](/SoftwareEngineering/daily-scrum-11-10.html)
+- [11 月 11 日 · Day 5](/SoftwareEngineering/daily-scrum-11-11.html)
+- [11 月 12 日 · Day 6](/SoftwareEngineering/daily-scrum-11-12.html)
+- [11 月 13 日 · Day 7](/SoftwareEngineering/daily-scrum-11-13.html)
+- [11 月 14 日 · Day 8](/SoftwareEngineering/daily-scrum-11-14.html)
+- [11 月 17 日 · Day 9](/SoftwareEngineering/daily-scrum-11-17.html)
+- [11 月 18 日 · Day 10](/SoftwareEngineering/daily-scrum-11-18.html)
+
 ### 🎯 项目亮点
 
 - **NABCD分析**：深度需求分析与商业前景评估

@@ -79,6 +79,7 @@ SoftwareEngineering/
 - **团队项目**：NewsMind 个性化新闻推荐系统
   - **团队博客1**：项目核心信息、需求分析、团队分工
   - **团队博客2**：Alpha阶段计划、任务分解、Sprint规划、燃尽图
+  - **Daily Scrum 系列**：11 月 5 日至 18 日的十篇站会日志（`docs/daily-scrum-11-*.md`），记录每日 Commit、任务燃尽与截图
 
 ### 电梯调度系统专用布局
 - 独立的CSS样式文件
