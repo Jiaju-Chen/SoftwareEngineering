@@ -35,7 +35,7 @@
 - [11 月 14 日 · Day 8](/SoftwareEngineering/daily-scrum-11-14.html)
 - [11 月 17 日 · Day 9](/SoftwareEngineering/daily-scrum-11-17.html)
 - [11 月 18 日 · Day 10](/SoftwareEngineering/daily-scrum-11-18.html)
-- [11 月 19 日 · Day 11](/SoftwareEngineering/daily-scrum-11-19.html)
+- [11 月 19 日 · Day 10.5](/SoftwareEngineering/daily-scrum-11-19.html)
 
 ### 🎯 项目亮点
 

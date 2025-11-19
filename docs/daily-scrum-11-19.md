@@ -9,7 +9,7 @@ tags: [Daily Scrum, NewsMind, Sprint]
 - [《团队博客1 - 团队项目核心信息》](/SoftwareEngineering/团队博客1-团队项目核心信息.html)
 - [《团队博客2 - 项目Alpha阶段的计划和估计》](/SoftwareEngineering/groupblog2.html)
 - [《团队博客3 - Alpha阶段的发布》](/SoftwareEngineering/团队博客3：alpha阶段的发布.html)
-
+- [《团队博客4 - Alpha阶段的 Postmortem 会议》](/SoftwareEngineering/团队博客4：alpha阶段的 postmortem 会议.html)
 
 ## 📅 今日小结
 Alpha 部署完成后的收官日，团队只投入 1 小时进行总结、可视化整理及零星调试，确保所有资料可用于 Beta 立项复盘。
