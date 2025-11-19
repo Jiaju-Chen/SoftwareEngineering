@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Daily Scrum - Day 11（11 月 19 日）
+title: Daily Scrum - Day 10.5（11 月 19 日）
 date: 2025-11-19
 tags: [Daily Scrum, NewsMind, Sprint]
 ---
