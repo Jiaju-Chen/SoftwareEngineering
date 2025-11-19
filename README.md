@@ -18,7 +18,9 @@ SoftwareEngineering/
 │   ├── 2025-10-25-elevator.jpg    # 结对编程照片
 │   ├── 团队博客1-团队项目核心信息.md  # 团队项目核心信息
 │   ├── groupblog2.md              # 团队博客2 - Alpha阶段计划
+│   ├── 团队博客3：alpha阶段的发布.md  # 团队博客3 - Alpha阶段发布
 │   ├── burndown_chart_projected.png # 燃尽图
+│   ├── daily-scrum-11-*.md       # Daily Scrum 日志（10篇）
 │   └── index.md                   # 首页
 └── README.md                      # 项目说明
 ```
@@ -79,6 +81,7 @@ SoftwareEngineering/
 - **团队项目**：NewsMind 个性化新闻推荐系统
   - **团队博客1**：项目核心信息、需求分析、团队分工
   - **团队博客2**：Alpha阶段计划、任务分解、Sprint规划、燃尽图
+  - **团队博客3**：Alpha阶段发布、工作流程总结、风险管理与项目反思
   - **Daily Scrum 系列**：11 月 5 日至 18 日的十篇站会日志（`docs/daily-scrum-11-*.md`），记录每日 Commit、任务燃尽与截图
 
 ### 电梯调度系统专用布局
@@ -158,4 +161,4 @@ giscus:
 
 ---
 
-*最后更新：2025年11月2日*
+*最后更新：2025年11月19日*

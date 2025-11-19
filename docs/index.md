@@ -17,6 +17,9 @@
 - **[团队博客2 - 项目Alpha阶段的计划和估计](/SoftwareEngineering/groupblog2.html)**  
   *工作结构分解、Sprint计划、任务分配与燃尽图*
 
+- **[团队博客3 - Alpha阶段的发布](/SoftwareEngineering/团队博客3：alpha阶段的发布.html)**  
+  *Alpha版本交付、工作流程总结、风险管理与项目反思*
+
 ### 📅 Daily Scrum 日志
 
 - [11 月 5 日 · Day 1](/SoftwareEngineering/daily-scrum-11-05.html)
@@ -91,4 +94,4 @@
 
 ---
 
-*最后更新：2025年11月2日*
+*最后更新：2025年11月19日*
