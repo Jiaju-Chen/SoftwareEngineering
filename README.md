@@ -19,6 +19,7 @@ SoftwareEngineering/
 │   ├── 团队博客1-团队项目核心信息.md  # 团队项目核心信息
 │   ├── groupblog2.md              # 团队博客2 - Alpha阶段计划
 │   ├── 团队博客3：alpha阶段的发布.md  # 团队博客3 - Alpha阶段发布
+│   ├── 团队博客4：alpha阶段的 postmortem 会议.md  # 团队博客4 - Postmortem会议
 │   ├── burndown_chart_projected.png # 燃尽图
 │   ├── daily-scrum-11-*.md       # Daily Scrum 日志（10篇）
 │   └── index.md                   # 首页
@@ -82,6 +83,7 @@ SoftwareEngineering/
   - **团队博客1**：项目核心信息、需求分析、团队分工
   - **团队博客2**：Alpha阶段计划、任务分解、Sprint规划、燃尽图
   - **团队博客3**：Alpha阶段发布、工作流程总结、风险管理与项目反思
+  - **团队博客4**：Alpha阶段 Postmortem 会议、团队贡献评估、Pre-mortem对比与成员转组
   - **Daily Scrum 系列**：11 月 5 日至 18 日的十篇站会日志（`docs/daily-scrum-11-*.md`），记录每日 Commit、任务燃尽与截图
 
 ### 电梯调度系统专用布局
@@ -161,4 +163,4 @@ giscus:
 
 ---
 
-*最后更新：2025年11月19日*
+*最后更新：2025年11月20日*
