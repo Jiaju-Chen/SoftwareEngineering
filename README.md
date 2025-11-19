@@ -84,7 +84,7 @@ SoftwareEngineering/
   - **团队博客2**：Alpha阶段计划、任务分解、Sprint规划、燃尽图
   - **团队博客3**：Alpha阶段发布、工作流程总结、风险管理与项目反思
   - **团队博客4**：Alpha阶段 Postmortem 会议、团队贡献评估、Pre-mortem对比与成员转组
-  - **Daily Scrum 系列**：11 月 5 日至 18 日的十篇站会日志（`docs/daily-scrum-11-*.md`），记录每日 Commit、任务燃尽与截图
+  - **Daily Scrum 系列**：11 月 5 日至 19 日的 11 篇站会日志（`docs/daily-scrum-11-*.md`），记录每日 Commit、任务燃尽与截图
 
 ### 电梯调度系统专用布局
 - 独立的CSS样式文件
