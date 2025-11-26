@@ -1,4 +1,3 @@
-# Postmortem 会议总结：NewsMind Alpha 版本
 
 ## 📝 会议信息
 * **项目名称：** NewsMind —— 基于大语言模型的个性化新闻推荐系统
