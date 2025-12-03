@@ -23,6 +23,9 @@
 - **[团队博客4 - Alpha阶段的 Postmortem 会议](/SoftwareEngineering/团队博客4：alpha阶段的 postmortem 会议.html)**  
   *团队贡献评估、Postmortem总结、Pre-mortem对比与成员转组*
 
+- **[团队博客5 - Beta阶段的计划与估计](/SoftwareEngineering/团队博客5.html)**  
+  *Beta阶段规划、Postmortem复盘、WBS分解与燃尽图*
+
 ### 📅 Daily Scrum 日志
 
 - [11 月 5 日 · Day 1](/SoftwareEngineering/daily-scrum-11-05.html)
