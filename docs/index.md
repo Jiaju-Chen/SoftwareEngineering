@@ -26,6 +26,9 @@
 - **[团队博客5 - Beta阶段的计划与估计](/SoftwareEngineering/团队博客5.html)**  
   *Beta阶段规划、Postmortem复盘、WBS分解与燃尽图*
 
+- **[Beta阶段的打分与反馈](/SoftwareEngineering/beta阶段打分反馈.html)**  
+  *对其他团队Beta阶段的评估与反馈*
+
 ### 📅 Daily Scrum 日志
 
 - [11 月 5 日 · Day 1](/SoftwareEngineering/daily-scrum-11-05.html)
