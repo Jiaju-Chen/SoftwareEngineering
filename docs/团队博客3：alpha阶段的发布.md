@@ -5,6 +5,8 @@ date: 2025-11-19
 tags: [团队项目, 软件工程, NewsMind, Alpha发布, 项目总结]
 ---
 
+> **项目地址**：[`NewsMind` 项目代码仓库](https://z.gitee.cn/zgca/NewsMind/tree/develop)
+
 # Alpha 阶段发布文档 · NewsMind项目
 
 ## 1. 交付产品：新闻稿

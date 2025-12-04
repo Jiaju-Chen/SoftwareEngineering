@@ -31,6 +31,8 @@
 
 ### 📅 Daily Scrum 日志
 
+#### Alpha 阶段
+
 - [11 月 5 日 · Day 1](/SoftwareEngineering/daily-scrum-11-05.html)
 - [11 月 6 日 · Day 2](/SoftwareEngineering/daily-scrum-11-06.html)
 - [11 月 7 日 · Day 3](/SoftwareEngineering/daily-scrum-11-07.html)
@@ -42,6 +44,10 @@
 - [11 月 17 日 · Day 9](/SoftwareEngineering/daily-scrum-11-17.html)
 - [11 月 18 日 · Day 10](/SoftwareEngineering/daily-scrum-11-18.html)
 - [11 月 19 日 · Day 10.5](/SoftwareEngineering/daily-scrum-11-19.html)
+
+#### Beta 阶段
+
+- [12 月 4 日 · Day 1](/SoftwareEngineering/daily-scrum-12-04.html)
 
 ### 🎯 项目亮点
 

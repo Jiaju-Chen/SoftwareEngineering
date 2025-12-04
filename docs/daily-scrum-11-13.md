@@ -5,6 +5,8 @@ date: 2025-11-13
 tags: [Daily Scrum, NewsMind, Sprint]
 ---
 
+> **项目地址**：[`NewsMind` 项目代码仓库](https://z.gitee.cn/zgca/NewsMind/tree/develop)
+
 ## 🧭 项目核心信息
 - [《团队博客1 - 团队项目核心信息》](/SoftwareEngineering/团队博客1-团队项目核心信息.html)
 - [《团队博客2 - 项目Alpha阶段的计划和估计》](/SoftwareEngineering/groupblog2.html)
