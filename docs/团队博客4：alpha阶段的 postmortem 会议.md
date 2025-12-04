@@ -5,7 +5,7 @@ date: 2025-11-21
 tags: [团队项目, 软件工程, NewsMind, Postmortem, 复盘, 团队总结]
 ---
 
-> **项目地址**：[`NewsMind` 项目代码仓库](https://z.gitee.cn/zgca/NewsMind/tree/develop)
+> **项目地址**：[`NewsMind` 项目代码仓库](https://z.gitee.cn/zgca/NewsMind.git)
 
 # Postmortem 会议总结：NewsMind Alpha 版本
 

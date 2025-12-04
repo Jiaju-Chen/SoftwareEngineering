@@ -5,7 +5,7 @@ date: 2025-11-04
 tags: [团队项目, 软件工程, NewsMind, 敏捷开发, Sprint计划]
 ---
 
-> **项目地址**：[`NewsMind` 项目代码仓库](https://z.gitee.cn/zgca/NewsMind/tree/develop)
+> **项目地址**：[`NewsMind` 项目代码仓库](https://z.gitee.cn/zgca/NewsMind.git)
 
 > 在上一篇博客中，我们介绍了 NewsMind 项目的核心信息。现在，我们将深入探讨 Alpha 阶段的具体执行计划、任务分解和工作量估计。遵循敏捷开发的原则，我们将通过精细化的计划来确保项目在预定周期内顺利推进。
 

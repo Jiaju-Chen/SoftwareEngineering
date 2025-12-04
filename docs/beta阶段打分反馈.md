@@ -4,7 +4,7 @@ title: Beta阶段的打分与反馈
 date: 2025-12-03
 tags: [团队项目, 软件工程, Beta阶段, 项目评估, 反馈]
 ---
-> **项目地址**：[`NewsMind` 项目代码仓库](https://z.gitee.cn/zgca/NewsMind/tree/develop)
+> **项目地址**：[`NewsMind` 项目代码仓库](https://z.gitee.cn/zgca/NewsMind.git)
 
 > 本文档记录了 NewsMind 团队在 Beta 阶段对其他团队项目的评估与反馈。我们认真听取了各团队在课堂上的 Beta 阶段目标与期望实现，经过团队成员的综合评估，为各项目团队打分并提供简要反馈。
 

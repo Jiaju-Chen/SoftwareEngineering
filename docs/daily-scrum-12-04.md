@@ -5,7 +5,7 @@ date: 2025-12-04
 tags: [Daily Scrum, NewsMind, Beta阶段, Sprint]
 ---
 
-> **项目地址**：[`NewsMind` 项目代码仓库](https://z.gitee.cn/zgca/NewsMind/tree/develop)
+> **项目地址**：[`NewsMind` 项目代码仓库](https://z.gitee.cn/zgca/NewsMind.git)
 
 ## 🧭 项目核心信息
 - [《团队博客1 - 团队项目核心信息》](/SoftwareEngineering/团队博客1-团队项目核心信息.html)
