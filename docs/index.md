@@ -53,6 +53,7 @@
 - [12 月 9 日 · Day 4](/SoftwareEngineering/daily-scrum-12-09.html)
 - [12 月 10 日 · Day 5](/SoftwareEngineering/daily-scrum-12-10.html)
 - [12 月 11 日 · Day 6](/SoftwareEngineering/daily-scrum-12-11.html)
+- [12 月 12 日 · Day 7](/SoftwareEngineering/daily-scrum-12-12.html)
 
 ### 🎯 项目亮点
 
