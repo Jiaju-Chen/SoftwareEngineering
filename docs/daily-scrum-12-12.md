@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Daily Scrum - Beta Day 7（12 月 12 日）
-date: 2025-12-11
+date: 2025-12-12
 tags: [Daily Scrum, NewsMind, Beta阶段, Sprint]
 ---
 
