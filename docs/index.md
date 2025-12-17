@@ -105,13 +105,20 @@
 
 ## 🛠️ 技术栈
 
-### 团队项目
-- **后端**: Node.js, Express, 数据库设计
-- **前端**: Vue.js / React
-- **AI**: 大语言模型（LLM）集成, 语义分析
+### 团队项目（NewsMind）
+- **全栈框架**: Streamlit（Python Web 应用框架）
+- **编程语言**: Python 3.8+
+- **数据库**: SQLite + FTS5 全文搜索（bm25 相关性排序）
+- **数据库架构**: 连接池 + 并发控制 + WAL 模式
+- **AI/LLM**: DeepSeek-V3（OpenAI 兼容 API）
+- **数据爬取**: 27 个数据源官方 API 直接抓取（今日头条、百度热搜、IT之家等）
+- **搜索算法**: FTS5 rank (bm25) + 多维度评分系统
+- **定时任务**: schedule + tmux（每天自动爬取）
+- **部署**: Docker + Nginx + Streamlit
 - **开发模式**: 敏捷开发, Git Flow, CI/CD
+- **代码质量**: Cursor AI 辅助代码审查, 自动 lint, E2E 测试
 
-### 个人项目
+### 个人项目（电梯调度系统）
 - **后端**: Python, Elevator Saga API, Quart, Hypercorn
 - **前端**: Vue.js, TypeScript, Vite
 - **工具**: npm, pip, curl, Git
